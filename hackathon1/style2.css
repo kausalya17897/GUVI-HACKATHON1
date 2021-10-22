@@ -1,0 +1,18 @@
+.info-container{
+    margin:20px;
+    padding:10px;
+    border-radius: 1rem;
+    background-color:white;
+}
+body{
+    background-color:beige;
+    background-image: linear-gradient(to right top, #0c274e, #005b8c, #00919e, #00c475, #a8eb12);
+    min-height: 100vh;;
+   
+}
+
+.user-name,.user-height,.user-weight{
+    font-size:1.4rem;
+    font-family: 'Pacifico', cursive;
+    
+};
